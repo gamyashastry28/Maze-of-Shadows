@@ -8,8 +8,6 @@ Maze of Shadows is a 2D video game prototype of a maze game.
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information
