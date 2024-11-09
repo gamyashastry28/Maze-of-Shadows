@@ -43,8 +43,9 @@ Room for improvement:
 ## Acknowledgements
 
 - This project was based on [this tutorial](https://www.youtube.com/watch?v=inocKE13DEA&list=PLlEgNdBJEO-lNDJgg90fmfAq9RzORkQWP).
-- The limited visibility effect was learnt from [this tutorial] (https://www.pygame.org/project/3507/5601).
-- 
+- The limited visibility effect was learnt from [this tutorial](https://www.pygame.org/project/3507/5601).
+  
+
   
 
 
