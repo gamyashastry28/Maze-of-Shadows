@@ -18,7 +18,7 @@ Maze of Shadows is a prototype of a standard maze game with a twist. You must na
 
 ## Technologies Used
 - IDLE Shell - version 3.13.0
-- Python - version 3.13.-
+- Python - version 3.13.0
 - Pygame - version 2.6.1
 
 
